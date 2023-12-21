@@ -1,6 +1,6 @@
 👋 Hi, I’m Viktoria Dinkova!
 
-👀 I’m interested in DataBase
+🔥 Experienced in DataBase
 🌱 I’m currently learning Python
 
 <!---
